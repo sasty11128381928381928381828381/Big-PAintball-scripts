@@ -1,0 +1,6 @@
+local Games = {
+[3527629287] = loadstring(game:HttpGet("https://raw.githubusercontent.com/sasty11128381928381928381828381/Big-PAintball-scripts/refs/heads/main/Example(BigPaintball)"))() -- Big Paintball
+[10449761463] = loadstring(game:HttpGet("https://raw.githubusercontent.com/sasty11128381928381928381828381/Big-PAintball-scripts/refs/heads/main/Example(TSB)"))()
+}
+
+return Games
